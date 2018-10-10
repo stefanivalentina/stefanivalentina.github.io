@@ -4,15 +4,17 @@ body{
 
 h1 {
   color:Azure;
-p {
+}
+  p {
   color:rgb(0,0,0);
 }
  
  a{
    color:Deep Sky Blue;
-     
+} 
   a:hover{
     color:Light Sea Green;
   }
   li {
     color:;
+}
