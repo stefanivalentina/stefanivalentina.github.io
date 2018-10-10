@@ -1,8 +1,18 @@
-
 body{
-  background-color:Alice Blue;
+  background-color:rgb(225, 248, 220);
 }
 
-a{
-  color:Coral;
+h1 {
+  color:Azure;
+p {
+  color:rgb(0,0,0);
 }
+ 
+ a{
+   color:Deep Sky Blue;
+     
+  a:hover{
+    color:Light Sea Green;
+  }
+  li {
+    color:;
