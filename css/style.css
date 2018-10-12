@@ -1,19 +1,19 @@
-@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Great+Vibes');
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
 
 body{
   background-color:rgb(225, 248, 220);
-  color:rgb(112, 128, 145)
+  color:rgb(112, 128, 145);
 }
 
 */
 h1,p{
-  color:rgb(0,0,0)
+  color:rgb(0,0,0);
 }
 
 h1 {
   font-size;20px;
-  color:rgb(30, 144, 255)
-font-family: 'Great Vibes', cursive;
+  color:rgb(30, 144, 255);
+font-family: 'Shadows Into Light', cursive;
 }
   p {
    font-size;10px;
