@@ -45,6 +45,12 @@ width:150px;
 height:150px;
 }
 
+.box3{
+background-color:rgb(173, 216, 230);
+width:80%;
+height:60%;
+}
+
 li {
     color:Aqua;
 }
