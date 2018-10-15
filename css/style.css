@@ -27,6 +27,11 @@ a{
   a:hover{
     color:Light Sea Green;
   }
-  li {
+ 
+div{
+   background-color:rgb:rgb(240, 128, 128);
+}
+
+li {
     color:Aqua;
 }
