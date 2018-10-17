@@ -36,7 +36,7 @@ div{
 .header{
 background-color:rgb(211, 211, 211);
 width: 150px;
-height: 150px;
+height: 100px;
 }
 
 .main{
@@ -54,7 +54,7 @@ height :100px;
 
 .sidebar{
 background-color:rgb(238, 130, 238);
-width:70%;
+width:30%;
 float:right;
 height :100px;
 }
