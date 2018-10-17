@@ -32,20 +32,20 @@ div{
    background-color:rgb(62, 254, 255);
 }
 
-.box1{
+.header{
 background-color:rgb(211, 211, 211);
 width:150px;
 height:150px;
 
 }
 
-.box2{
+.main{
 background-color:rgb(173, 216, 230);
 width:150px;
 height:150px;
 }
 
-.box3{
+.foother{
 background-color:rgb(173, 216, 230);
 width:80%;
 height:60%;
