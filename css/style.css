@@ -77,31 +77,31 @@ li {
 }
 
 .parent {
-  height: 100px;
+  height: 1000px;
   width: 100%;
   background-color: rgb(66, 172, 299); 
  } 
 
 .anak1 {
   background-color: rgb(188, 54, 94);
-  width: 3.33%;
-  height: 100px;
+  width: 30%;
+  height: 500px;
   float: left;
   align-text: center;
 }
 
 .anak2 {
   background-color: rgb(254, 240, 245);
-  width: 3.33%;
-  height:100px;
+  width: 30%;
+  height:500px;
   float: left;
   align-text: center;
 }
 
 .anak3 {
   background-color: rgb(188, 54, 94);
-  width: 3.33%;
-  height:100px;
+  width: 30%;
+  height:500px;
   float: left;
   align-text: center;
 }
