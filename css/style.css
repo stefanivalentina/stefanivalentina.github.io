@@ -18,13 +18,29 @@ h1 {
 h3{
    color:rgb(0,0,0);
   font-family:'Lobster Two', cursive;
- 
+}
 p {
    font-size;10px;
    color:rgb(0,0,0);
    font-family:'Charmonman',Georgia,serif;
 }
-  
+
+.parent{
+   background-color:rgb(66, 172, 299;
+ } 
+
+.anak1{
+  background-color:rgb(188, 54, 94);
+}
+
+.anak2{
+  background-color:rgb(254, 240, 245);
+}
+
+.anak3{
+  background-color:rgb(188, 54, 94);
+}
+
 a{
    color:rgb(0, 0, 0);
 } 
