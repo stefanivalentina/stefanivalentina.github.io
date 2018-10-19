@@ -38,6 +38,7 @@ p {
   width: 3.33%;
   height:100px;
   float: left;
+  align-text: center;
 }
 
 .anak2 {
@@ -45,6 +46,7 @@ p {
   width: 3.33%;
   height:100px;
   float: left;
+  align-text: center;
 }
 
 .anak3 {
@@ -52,7 +54,7 @@ p {
   width: 3.33%;
   height:100px;
   float: left;
-  
+  align-text: center;
 }
 
 a{
