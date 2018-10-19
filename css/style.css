@@ -87,7 +87,7 @@ li {
   width: 35%;
   height: 500px;
   float: left;
-  align-text: center;
+  text-align: center;
 }
 
 .anak2 {
@@ -95,7 +95,7 @@ li {
   width: 30%;
   height:500px;
   float: left;
-  align-text: center;
+  text-align: center;
 }
 
 .anak3 {
@@ -103,5 +103,5 @@ li {
   width: 35%;
   height:500px;
   float: left;
-  align-text: center;
+  text-align: center;
 }
