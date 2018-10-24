@@ -107,12 +107,32 @@ li {
 }
 
 .panel-img {
-float: left;
 width: 200px;
 height:200px;
 background-color:rgb(176, 224, 230)
 }
 
+.panel-img1{
+  background-color: rgb(188, 54, 94);
+  width: 35%;
+  height: 400px;
+  float: left;
+  text-align: center;
+}
 
+.panel-img2{
+  background-color: rgb(188, 54, 94);
+  width: 30%;
+  height: 400px;
+  float: left;
+  text-align: center;
+}
 
+.panel-img3{
+  background-color: rgb(188, 54, 94);
+  width: 35%;
+  height: 400px;
+  float: left;
+  text-align: center;
+}
 
