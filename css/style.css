@@ -109,6 +109,7 @@ li {
 .panel-img {
 width: 200px;
 height:200px;
+ float: left;
 background-color:rgb(176, 224, 230)
 }
 
