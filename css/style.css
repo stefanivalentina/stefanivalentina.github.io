@@ -105,3 +105,21 @@ li {
   float: left;
   text-align: center;
 }
+
+body {
+    font-family:'Charmonman',Georgia,serif;
+    font-size: 14px;
+    line-height: 21px;
+    margin: 0;
+    color: #212121;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.004);
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+
