@@ -37,7 +37,7 @@ a:hover{
   }
  
 div{
-   background-color:rgb(62, 254, 255);
+   background-color:rgb(175, 238, 239);
 }
 
 .header{
@@ -106,20 +106,13 @@ li {
   text-align: center;
 }
 
-body {
-    font-family:'Charmonman',Georgia,serif;
-    font-size: 14px;
-    line-height: 21px;
-    margin: 0;
-    color: #212121;
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    text-shadow: 1px 1px 1px rgba(0,0,0,.004);
-    text-rendering: auto;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+.panel-img {
+float: left;
+width: 200px;
+height:200px;
+
 }
+
 
 
 
