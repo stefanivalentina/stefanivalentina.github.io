@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+
 @import url('https://fonts.googleapis.com/css?family=Lobster+Two');
+
+@import url('https://fonts.googleapis.com/css?family=Mali');
+
 body{
   background-color:rgb(225, 248, 220);
   color:rgb(112, 128, 145);
@@ -27,11 +31,17 @@ p {
    font-family:'Charmonman',Georgia,serif;
 }
 
-
+marquee direction{
+  font-size:40px;
+  background-color:rgb(105, 105, 105);
+}
 
 a{
-   color:rgb(0, 0, 0);
+  color:rgb(0, 0, 0);
+  font-size:20px;
+  font-family: 'Mali', cursive; 
 } 
+
 a:hover{
     color:rgb(255, 227, 200);
   }
