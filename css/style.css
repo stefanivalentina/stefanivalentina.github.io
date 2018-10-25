@@ -4,15 +4,12 @@
 
 @import url('https://fonts.googleapis.com/css?family=Mali');
 
+
 body{
   background-color:rgb(225, 248, 220);
   color:rgb(112, 128, 145);
 }
 
-*/
-h1,p{
-  color:rgb(0,0,0);
-}
 
 h1 {
   font-size;20px;
@@ -31,14 +28,12 @@ p {
    font-family:'Charmonman',Georgia,serif;
 }
 
-marquee direction{
-  font-size:40px;
-  background-color:rgb(105, 105, 105);
+
 }
 
 a{
   color:rgb(0, 0, 0);
-  font-size:20px;
+  font-size:60px;
   font-family: 'Mali', cursive; 
 } 
 
