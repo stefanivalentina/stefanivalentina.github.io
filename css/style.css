@@ -58,11 +58,11 @@ width: 150px;
 height: 150px;
 }
 
-.content{
-background-color:rgb(216, 191, 216);
-width: 100%;
+.content {
+background-color: rgb(216, 191, 216);
+width:100%;
 float: left;
-height :100px;
+height: 100px;
 }
 
 .sidebar{
