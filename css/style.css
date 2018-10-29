@@ -69,10 +69,12 @@ height :100px;
 }
   
   .footer{
-background-color: rgb(173, 216, 230);
+background-color: yellow;
 width: 100%;
 height: 60%;
 }
+
+.footer h1 
 
 li {
     color:Aqua;
