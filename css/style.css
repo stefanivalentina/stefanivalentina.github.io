@@ -176,11 +176,12 @@ background-color:rgb(176, 224, 230)
 }
 
 .panel-img1{
-  background-color: rgb(188, 54, 94);
+  background-color: rgb(29, 185, 242);
   width: 35%;
   height: 300px;
   float: left;
   text-align: center;
+  padding-top: 20px;
 }
 
 .panel-img2{
@@ -189,6 +190,7 @@ background-color:rgb(176, 224, 230)
   height: 300px;
   float: left;
   text-align: center;
+  padding-top: 20px;
 }
 
 .panel-img3{
@@ -197,5 +199,6 @@ background-color:rgb(176, 224, 230)
   height: 300px;
   float: left;
   text-align: center;
+   padding-top: 20px;
 }
 
