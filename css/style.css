@@ -27,7 +27,7 @@ h3 {
 }
 
 p {
-   font-size: 10px;
+   font-size: 15px;
    color:rgb(0,0,0);
    font-family: 'Charmonman', Georgia, serif;
 }
@@ -169,6 +169,36 @@ li {
 }
 
 .alen3 {
+  background-color: rgb(254, 240, 245);
+  width: 35%;
+  height:500px;
+  float: left;
+  text-align: center;
+}
+
+.diva{
+  height: 400px;
+  width: 100%;
+  background-color:  rgb(66, 172, 299);
+ } 
+
+.lulu1 {
+  background-color:  rgb(254, 240, 245);
+  width: 35%;
+  height: 500px;
+  float: left;
+  text-align: center;
+}
+
+.lulu2 {
+  background-color:  rgb(239, 131, 187);
+  width: 30%;
+  height:500px;
+  float: left;
+  text-align: center;
+}
+
+.lulu3 {
   background-color: rgb(254, 240, 245);
   width: 35%;
   height:500px;
