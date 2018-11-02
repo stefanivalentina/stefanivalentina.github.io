@@ -87,7 +87,7 @@ li {
  } 
 
 .anak1 {
-  background-color: rgb(188, 54, 94);
+  background-color: rgb(237, 80, 114);
   width: 35%;
   height: 500px;
   float: left;
@@ -103,7 +103,7 @@ li {
 }
 
 .anak3 {
-  background-color: rgb(188, 54, 94);
+  background-color:  rgb(237, 80, 114);
   width: 35%;
   height:500px;
   float: left;
@@ -177,7 +177,7 @@ li {
  } 
 
 .lulu1 {
-  background-color:  rgb(254, 240, 245);
+  background-color:  rgb(237, 80, 114);
   width: 35%;
   height: 500px;
   float: left;
@@ -185,7 +185,7 @@ li {
 }
 
 .lulu2 {
-  background-color:  rgb(239, 131, 187);
+  background-color:  rgb(254, 240, 245);
   width: 30%;
   height:500px;
   float: left;
@@ -193,7 +193,7 @@ li {
 }
 
 .lulu3 {
-  background-color: rgb(254, 240, 245);
+  background-color:  rgb(237, 80, 114);
   width: 35%;
   height:500px;
   float: left;
@@ -226,6 +226,14 @@ background-color:rgb(176, 224, 230)
 }
 
 .panel-img3{
+  background-color: rgb(33, 180, 226);
+  width: 35%;
+  height: 300px;
+  float: left;
+  text-align: center;
+   padding-top: 20px;
+}
+.panel-img4{
   background-color: rgb(33, 180, 226);
   width: 35%;
   height: 300px;
