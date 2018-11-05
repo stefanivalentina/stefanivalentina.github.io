@@ -10,146 +10,49 @@
         <a href="gallery.html">Gallery</a>
         <a href="menu.html">Menu</a> 
         <a href="contact.html">Contact Us</a>
-    
-        <div class="mainheading-wrapper" style="background: url('/images/header_bg.jpg');">
-            <div class="heading-content heading-align-left">
-                  <div class="heading-text-wrapper">
-                       <div class="header_text">
-                           <h1>Contact</h1>
-                                           <div class="clearfix"></div>
-                        </div>
-		            </div>
-        <div class="heading-content heading-align-left">
-		         <div class="heading-text-wrapper">   
-                     <div class="header_text">
-				         <h1>Contact</h1>
-                                         <div class="clearfix"></div>
-			</div>
-		</div>
-            
-             
-                <div class="clearfix"></div>
-	        </div>
-        <div class="heading-text-wrapper">
-			<div class="header_text">
-                <h1>Contact</h1>
-								<div class="clearfix"></div>
-			</div>
-		</div>
-        <div class="clearfix"></div>       
-        <div class="heading-content heading-align-left">
-		    <div class="heading-text-wrapper">
-			    <div class="header_text">    
-                    <h1>Contact</h1>
-								<div class="clearfix"></div>
-			</div>
-		</div>
-          
-            
-        <div class="clearfix"></div>
-     </div> 
-        <div class="panel-content">
-        <div class="mainheading-wrapper" style="background: url('/images/header_bg.jpg');">
-	        <div class="heading-content heading-align-left">
-		        <div class="heading-text-wrapper">   
-                    <div class="header_text">
-				<h1>Contact</h1>
-								<div class="clearfix"></div>
-        
-                 </div>
-		</div>
-</div>
-</div>			
+            <h1>Contact Us Form Example</h1>
 
-		<div class="clearfix"></div>
-	</div>
-	
-            
-            
-            
-            
-            
-            
-            
-      <form>
-         <p>
-             <label>Nama</label>                                 
-              <input type="text"name="name" >
-           </p>
-        <p> 
-           <label>Tempat</label>
-            <input type="text" name="tempat " >
-         </p>
-           <p>
-            <label For="Tanggal lahir">Tanggal</label>
-            <select name="Tanggal lahir">
-  
-            <option>1</option>
-            <option>2</option>
-            <option>3</option>
-            <option>4</option>
-            <option>5</option>
-            <option>6</option>    
-            <option>7</option>  
-            <option>8</option>  
-            <option>9</option> 
-            <option>10</option>
-            <option>11</option>
-            <option>12</option>
-            <option>13</option>
-            <option>14</option>
-            <option>15</option>
-            <option>16</option>
-            <option>17</option>
-            <option>18</option>
-            <option>19</option>
-            <option>20</option>
-            </select></p>
-            <p>
-                <label For="Lahir">Lahir</label>
-                <select name="Lahir">
-      
-                <option>Jakarta </option>
-                <option>Bogor</option>
-                <option>Tanggerang</option>
-                <option>Bekasi</option>
-                </select></p>
-          
-          
-          
-          
-            <p> 
-           <label>Email</label>
-            <input type="text" name="email" >
-         </p>
-          <p>
-            <label>Address</label>
-            <textarea></textarea>
-        </p>
-        <p>
-            <label>Negara</label>
-            <select>
-  
-            <option>indonesia</option>
-            <option>Vietnam</option>
-            <option>Australia</option>
-            <option>italia</option>
-            <option>Belanda</option>
-         </select>
-         </p>
-         <p>
-        <label>general</label>
-          <input type="radio"> <label>Male</label>
-          <input type="radio"> <label>Famale</label>
-         </p>
-         <p>
-        <label>pekerjaaan</label>
-            <input type="checkbox"><label>shool</label>
-            <input type="checkbox"><label>work</label>
-        </p>
-        <button>save</button>
-    </form>
-        
+
+	<h1>Fratelli's Contact Form</h1>
+
+
+	<form action="//submit.form" id="ContactUs100" method="post" onsubmit="return ValidateForm(this);">
+	<script type="text/javascript">
+	    function ValidateForm(frm) {
+		if (frm.Name.value == "") { alert('Name is required.'); frm.Name.focus(); return false; }
+		if (frm.FromEmailAddress.value == "") { alert('Email address is required.'); frm.FromEmailAddress.focus(); return false; }
+		if (frm.FromEmailAddress.value.indexOf("@") < 1 || frm.FromEmailAddress.value.indexOf(".") < 1) { alert('Please enter a valid email address.'); frm.FromEmailAddress.focus(); return false; }
+		if (frm.Comments.value == "") { alert('Please enter comments or questions.'); frm.Comments.focus(); return false; }
+		return true;
+	    }
+	</script>
+	<table style="width:550px;border:0;" cellpadding="8" cellspacing="0">
+	<tr> <td>
+	<label for="Name">Name*:</label>
+	</td> <td>
+	<input name="Name" type="text" maxlength="60" style="width:250px;" />
+	</td> </tr> <tr> <td>
+	<label for="PhoneNumber">Phone number:</label>
+	</td> <td>
+	<input name="PhoneNumber" type="text" maxlength="43" style="width:250px;" />
+	</td> </tr> <tr> <td>
+	<label for="FromEmailAddress">Email address*:</label>
+	</td> <td>
+	<input name="FromEmailAddress" type="text" maxlength="90" style="width:250px;" />
+	</td> </tr> <tr> <td>
+	<label for="Comments">Comments*:</label>
+	</td> <td>
+	<textarea name="Comments" rows="7" cols="40" style="width:350px;"></textarea>
+	</td> </tr> <tr> <td>
+	* - required fields
+	</td> <td>
+	<div style="float:right"><a href="https://www.100forms.com" id="lnk100" title="web forms">forms</a></div>
+	<input name="skip_Submit" type="submit" value="Submit" />
+	<script src="https://www.100forms.com/js/FORMKEY:7GB64WPHHJ8M" type="text/javascript"></script>
+	</td> </tr>
+	</table>
+	</form>
+	    
         <h2>CONTACT STECA</h2>
         <p>At Steca Café and Bar we love hearing from our customers, it’s the<br>
         best way for us to ensure the best guest experience.<br> If you have any questions,
